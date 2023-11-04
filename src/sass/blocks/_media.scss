@@ -1,0 +1,21 @@
+@media (max-width: 576px) {
+    h1 {
+        font-size: 24px;
+    }
+    #options {
+        button {
+            margin-top: 20px;
+        }
+    }
+
+    #questions {
+        button {
+            margin-top: 20px;
+            width: 100%;
+        }
+        h2 {
+            font-size: 22px;
+        }
+    }
+
+}
